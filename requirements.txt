@@ -1,6 +1,5 @@
 streamlit
-opencv-python-headlessnumpy
+streamlit-webrtc
+opencv-python-headless
 deepface
-Pillow
-
 tf-keras
